@@ -1,0 +1,63 @@
+body{
+    background-color: #f1f1f1;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ava{
+    width: 250px;
+    border-radius: 28px;
+}
+.contein {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.info{
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.about {
+
+    background: rgb(148, 169, 148);
+
+}
+
+.info-text {
+    margin-left: 20px;
+}
+
+.card {
+
+    padding: 15px 20px;
+    background: rgb(211, 207, 115);
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+
+.bg-yellow {
+    background: #fff9dc;
+} 
+
+.bg-green {
+    background: #e5ffe7;
+} 
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.bg-sea {
+    background: rgb(111, 205, 203);
+}
+
+.bg-blue1 {
+    background: rgb(145, 211, 217);
+}
+
+.bg-blue2 {
+    background: rgb(176, 161, 213);
+}
